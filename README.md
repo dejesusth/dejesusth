@@ -79,4 +79,4 @@ I’m deeply focused on clean code, performance, software architecture, and data
 
 ---
   
-🤝 **Always open to learning, sharing knowledge, and connecting with other developers**
+🤝 **Always open to learning, sharing knowledge, and connecting with other developers.**
