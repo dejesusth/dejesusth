@@ -68,6 +68,7 @@ I’m deeply focused on clean code, performance, software architecture, and data
 <p align="left">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dejesusth&show_icons=true&theme=dark" />
 </p>
+
 ---
 
 ## 🧠 Mindset
