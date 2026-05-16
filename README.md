@@ -1,4 +1,4 @@
-# Thiago Silva
+# Software Development Student | Java • SQL • C
 
 📚 **Technical Student in Systems Development**  
 🇧🇷 Brazil
