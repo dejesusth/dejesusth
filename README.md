@@ -66,9 +66,8 @@ I’m deeply focused on clean code, performance, software architecture, and data
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dejesusth&show_icons=true&theme=dark&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dejesusth&show_icons=true&theme=dark" />
 </p>
-
 ---
 
 ## 🧠 Mindset
