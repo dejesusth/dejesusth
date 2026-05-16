@@ -1,7 +1,7 @@
 # Software Development Student | Java • SQL • C
 
 📚 **Technical Student in Systems Development**  
-🇧🇷 Brazil
+📍 Based in Brazil
 
 I started my journey studying **Programming Logic**, where I learned programming fundamentals using **C** and developed a solid problem-solving mindset.
 
