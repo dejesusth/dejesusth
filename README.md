@@ -1,11 +1,11 @@
-# Software Development Student | Java • SQL • C
+# Software Development Student | Java • SQL • C • C#
 
 📚 **Technical Student in Systems Development**  
 📍 Based in Brazil
 
-I started my journey studying **Programming Logic**, where I learned programming fundamentals using **C** and developed a solid problem-solving mindset.
+I started my journey studying **Programming Logic**, where I learned programming fundamentals using **C, Java** and developed a solid problem-solving mindset.
 
-Currently, I am studying **Application Development** with **Java**, Database Modeling and Management using **SQL**, improving my understanding of software architecture, system design, and scalable solutions.
+Currently, I am studying **Application Development** with **C#**, Database Modeling and Management using **SQL**, improving my understanding of software architecture, system design, and scalable solutions.
 
 I'm especially fascinated by **Databases** and how they power scalable and efficient systems.
 
@@ -28,7 +28,7 @@ I’m deeply focused on clean code, performance, software architecture, and data
 
 ## 🎯 What I'm Learning
 
--   💻 Programming fundamentals with C and Java
+-   💻 Programming fundamentals with C, C# and Java
 -   🗄️ Database modeling and SQL
 -   🧩 Software architecture and system design
 -   📊 UML diagrams and software modeling
