@@ -54,7 +54,6 @@ I’m deeply focused on clean code, performance, software architecture, and data
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧩 Software Design
